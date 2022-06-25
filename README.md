@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markus-vs
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning css, js
-- 💞️ I’m looking to collaborate on nothing right now. I an still learning.
+- 💞️ I’m looking to collaborate on nothing right now. I am still learning.
 - 📫 How to reach me markusvs:matrix.org
 
 <!---
